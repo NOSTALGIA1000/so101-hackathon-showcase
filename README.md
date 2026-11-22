@@ -6,10 +6,10 @@
 
 ## 真机完成情况
 
-| 任务 | 实拍中完成的动作 |
-| --- | --- |
-| 小圆盖放置 | 从桌面夹起圆盖，搬运到紫色方块上方，放到方块顶面。人工复位后再次完成。 |
-| 塑料瓶处理 | 夹住立放塑料瓶的瓶颈，抬起并改变瓶身姿态。 |
+| 任务 | 实拍中完成的动作 | 真机视频 |
+| --- | --- | --- |
+| 小圆盖放置 | 从桌面夹起圆盖，搬运到紫色方块上方，放到方块顶面。人工复位后再次完成。 | [小圆盖抓取与放置 · MP4](https://github.com/NOSTALGIA1000/so101-hackathon-showcase/releases/download/real-robot-demos/cap-placement.mp4) |
+| 塑料瓶处理 | 夹住立放塑料瓶的瓶颈，抬起并改变瓶身姿态。 | [塑料瓶抓取与搬运 · MP4](https://github.com/NOSTALGIA1000/so101-hackathon-showcase/releases/download/real-robot-demos/bottle-handling.mp4) |
 
 ## 项目工作
 
